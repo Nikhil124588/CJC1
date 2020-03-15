@@ -14,7 +14,7 @@ public class Put2 {
 	  req.header("Content-type","application/json");
 	  JSONObject json=new JSONObject();	
 	  json.put("id", "8");
-	  json.put("name", "nikhil");
+	  json.put("name", "nikhil12");
 	  json.put("addr", "amt-pune");
 	  req.body(json.toJSONString());
 	  Response res=req.put("http://localhost:8086/put");
