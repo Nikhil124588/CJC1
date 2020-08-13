@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {tyjtyjtj
 
 Scanner sc= new Scanner(System.in);
 int a[]= {10,15,20,78,14,16,15,10000,17,8};
